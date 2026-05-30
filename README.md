@@ -1,5 +1,5 @@
 # End-to-End Supply Chain Optimization & Risk Forecasting
-## CP42DS Capstone | Evoastra Ventures | Mrigank
+## CP42DS Capstone | Evoastra Ventures 
 
 ---
 
