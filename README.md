@@ -278,10 +278,3 @@ print(response.json())
 | Code Quality | Clean, modular | ✅ Typed schemas, docstrings, error handling |
 | Innovation | Optional app | ✅ FastAPI + Streamlit + Docker (Phase 4 bonus) |
 
----
-
-## Author
-
-**Mrigank** | Evoastra Ventures Data Science Internship  
-B.Tech Engineering Physics, DTU | B.Sc Data Science, IIT Madras  
-LLM Post-Training Intern @ Ethara AI
